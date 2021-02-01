@@ -2,4 +2,4 @@
 
 Iam vyshnavi Tadipaneni,currently pursuing masters in northwest missouri state university in applied computer science.And completed my undergraduate in Tirumala Engineering College in Computer Science and Engineering.
 
-[vyshnavi.jpeg](C:\Users\S542413\Documents\GitHub\assignment2-tadipaneni)
+[vyshnavipic](C:\Users\S542413\Documents\GitHub\assignment2-tadipaneni\vyshnavi.png)
