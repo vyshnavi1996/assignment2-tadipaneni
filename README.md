@@ -56,5 +56,33 @@ ________________________________________________________________________________
 > "Life is what happens when you're busy making other plans.”  *** John Lennon ***
 
 >  "Get busy living or get busy dying.”  *** Stephen King ***
+
+_________________________________________________________________________________________________________
+
+# CODE FENCING
+
+HyperTalk is a discontinued high-level, procedural programming language created in 1987 by Dan Winkler and used in conjunction with Apple Computer's HyperCard hypermedia program by Bill Atkinson. Because the main target audience of HyperTalk was beginning programmers, HyperTalk programmers were usually called "authors" and the process of writing programs was known as "scripting". HyperTalk scripts resembled written English and used a logical structure similar to that of the Pascal programming language.
+
+[Click here to know about HYPERTALK](https://en.wikipedia.org/wiki/HyperTalk)
+
+```
+  on mouseDown
+    answer file "Please select a text file to open."
+    if it is empty then exit mouseDown
+    put it into filePath
+    if there is a file filePath then
+      open file filePath
+      read from file filePath until return
+      put it into cd fld "some field"
+      close file filePath
+      set the textStyle of character 1 to 10 of card field "some field" to bold
+    end if
+  end mouseDown
+
+  ```
+  ***
+
+  _______________________________________________________________________________________________________
+
                                                                 
                                                                
