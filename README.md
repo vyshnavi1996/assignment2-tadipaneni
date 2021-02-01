@@ -92,9 +92,9 @@ ________________________________________________________________________________
 
 | LOCATION     |    IMAGE LINK                        |
 | -------------|--------------------------------------|                 
-|  ALLEPPEY    |   [ALLEPEY](alleppey.png)            |                
-|  MUNNAR      |   [MUNNAR](munnar.png)               | 
-|  VARKALA     |   [VARKALA](varkala.png)             |
-|  COCHIN      |   [COCHIN](cochin.png)               |
+|  ALLEPPEY    |   ![ALLEPEY](alleppey.png)            |                
+|  MUNNAR      |   ![MUNNAR](munnar.png)               | 
+|  VARKALA     |   ![VARKALA](varkala.png)             |
+|  COCHIN      |   ![COCHIN](cochin.png)               |
                                     
                                                                
