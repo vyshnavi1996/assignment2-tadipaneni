@@ -32,11 +32,13 @@ ___________________________________________________________________________
 
 [link of AboutMe.md](AboutMe.md)
 
-________________________________________________________
+_________________________________________________________________________________________________________
 
-# interesting places to travel
+# interesting places to travel "KERELA"
 
 Kerala is famous for its unique geography, tranquil backwaters, unspoiled beaches, art forms and spices.It is also famous for its charming houseboats, sprawling tea plantations, unique eco-tourism,magnificent architecture, Ayurvedic treatments and unforgettable culinary experiences.Kerala is correctly referred to as ‘God’s Own Country’. Its all-encompassing geography that comprises of serene hill stations and tranquil beaches will mesmerise you. It is a tropical paradise with an extremely pleasant climate. You can choose to paddle in the peaceful backwaters, go for a trek across the Western Ghats, or witness the calming mists of the hills. Its pristine nature will baffle you. Kerala has an endless list of festivals to catch up on; needless to say, it is a riot of experience.
+
+_________________________________________________________________________________________________________
 
 
                                                         
@@ -65,6 +67,8 @@ HyperTalk is a discontinued high-level, procedural programming language created 
 
 [Click here to know about HYPERTALK](https://en.wikipedia.org/wiki/HyperTalk)
 
+_________________________________________________________________________________________________________
+
 ```
   on mouseDown
     answer file "Please select a text file to open."
@@ -88,9 +92,9 @@ HyperTalk is a discontinued high-level, procedural programming language created 
 
 | LOCATION     |    IMAGE LINK                        |
 | -------------|--------------------------------------|                 
-|  ALLEPPEY    |   [ALLEPEY.PNG]()                    |               |    
-|  MUNNAR      |                                      | 
-|  VARKALA     |                                      |
-|  COCHIN      |                                      |
+|  ALLEPPEY    |   [ALLEPEY](alleppey.png)            |                
+|  MUNNAR      |   [MUNNAR](munnar.png)               | 
+|  VARKALA     |   [VARKALA](varkala.png)             |
+|  COCHIN      |   [COCHIN](cochin.png)               |
                                     
                                                                
