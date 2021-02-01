@@ -84,5 +84,13 @@ HyperTalk is a discontinued high-level, procedural programming language created 
 
   _______________________________________________________________________________________________________
 
-                                                                
+  # IMAGES FOLDER
+
+| LOCATION     |    IMAGE LINK                        |
+| -------------|--------------------------------------|                 
+|  ALLEPPEY    |   [ALLEPEY.PNG]()                    |               |    
+|  MUNNAR      |                                      | 
+|  VARKALA     |                                      |
+|  COCHIN      |                                      |
+                                    
                                                                
