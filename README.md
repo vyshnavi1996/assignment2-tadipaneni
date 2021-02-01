@@ -46,6 +46,15 @@ Kerala is famous for its unique geography, tranquil backwaters, unspoiled beache
 |     MUNNAR       |   3HOURS             |         75$          |
 |     VARKALA      |    5HOURS            |         130$         |
 |      COCHIN      |    7HOURS            |          200$        | 
-|                  |                      |                      |                            
+|                  |                      |                      |                
+
+_________________________________________________________________________________________________________
+
+# QUOTES
+> "The purpose of our lives is to be happy.”  *** Dalai Lama ***
+
+> "Life is what happens when you're busy making other plans.”  *** John Lennon ***
+
+>  "Get busy living or get busy dying.”  *** Stephen King ***
                                                                 
                                                                
