@@ -46,7 +46,6 @@ Kerala is famous for its unique geography, tranquil backwaters, unspoiled beache
 |     MUNNAR       |   3HOURS             |         75$          |
 |     VARKALA      |    5HOURS            |         130$         |
 |      COCHIN      |    7HOURS            |          200$        | 
-|------------------|----------------------|--------------------- |                            
-|                  |                      |                      |
+|                  |                      |                      |                            
                                                                 
                                                                
