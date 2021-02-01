@@ -29,4 +29,6 @@ __________________________________
     * vegetables
 * Come home
 
-[laptop](C:\Users\S542413\Documents\GitHub\assignment2-tadipaneni\AboutMe.md)
+[link of AboutMe.md](AboutMe.md)
+
+____________________________________________________________________________
